@@ -1,6 +1,6 @@
 # youtube mp3 download and tag
 
-Windows version is ready to use. You can use it on Linux after some preparetions:
+Windows version is ready to use. You can use it on Linux after some preparations:
 
 1. Install youtube-dl (http://rg3.github.io/youtube-dl/)
 2. Install id3mtag (https://squell.github.io/id3/#getting-it)
