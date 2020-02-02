@@ -7,4 +7,4 @@ Windows version is ready to use. You can use it on Linux after some preparations
 3. Install ffmpeg & ffmpeg (https://ffbinaries.com/downloads)
 4. Run following in terminal: youtube-dl -x --audio-format "mp3" --audio-quality 0 https://www.youtube.com/LINK
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/7JtLJuuMgYAA/maxresdefault.jpg)](https://youtu.be/7JtLJuuMgYA)
